@@ -1,0 +1,8 @@
+- [x] Projection Matrix
+- [x] Slide 29
+- [x] Color spaces summary
+- [ ] Revisit Color Spaces, and how they're calculated
+- [ ] Revisit Feature Extraction Process
+- [ ] **TODO**: `/Downloads` Folder Image Indexer
+- [ ] Revisit Chapter 3
+- [ ] 

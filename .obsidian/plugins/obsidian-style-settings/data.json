@@ -1,0 +1,8 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-translucency-background": "encore-bg-frosty",
+  "catppuccin-pdf@@ctp-seamless-pdf": true,
+  "catppuccin-pdf@@ctp-pdf-darken": true,
+  "catppuccin-pdf@@ctp-pdf-blend": true
+}
