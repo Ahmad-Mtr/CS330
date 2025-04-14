@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4467a058d87a352c",
+        "id": "f1d85309a2c3c96b",
         "type": "tabs",
         "children": [
           {
-            "id": "950a365d18bf2187",
+            "id": "b2fd1734cf7be775",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "c2fdd5c8d4d0f55c",
+            "id": "4fbf9fc6c40e54bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "material/practice_PIL.pdf",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for practice_PIL"
+              "title": "Backlinks for todo"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "material/practice_PIL.pdf",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from practice_PIL"
+              "title": "Outgoing links from todo"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "material/practice_PIL.pdf",
+                "file": "todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of practice_PIL"
+              "title": "Outline of todo"
             }
           }
         ]
@@ -184,16 +184,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "950a365d18bf2187",
+  "active": "b2fd1734cf7be775",
   "lastOpenFiles": [
     "README.md",
-    "todo.md",
+    "assets/Pasted Image 20250414142926_353.png",
+    "assets",
+    "pdfs/README.pdf",
+    "pdfs",
+    "New folder",
     "material/practice_PIL.pdf",
     "material/03-CBIR.pdf",
+    "assets/Pasted image 20250414222859.png",
+    "assets/Pasted image 20250414222237.png",
     "material/02-color-histogram-textures.pdf",
+    "assets/Pasted image 20250414222004.png",
     "material/01-image-formation-color-light.pdf",
-    "material/CS330_Image Understanding_syllabus.pdf",
-    "material/04-edge-detection_part1.pdf",
-    "material"
+    "todo.md",
+    "Excalidraw/Drawing 2025-04-14 14.22.10.excalidraw.md",
+    "assets/Pasted Image 20250414143853_270.png",
+    "Excalidraw",
+    "material/CS330_Image Understanding_syllabus.pdf"
   ]
 }

@@ -3,6 +3,8 @@
 - [x] Color spaces summary
 - [ ] Revisit Color Spaces, and how they're calculated
 - [ ] Revisit Feature Extraction Process
+- [ ] Edge Density & Direction Examples
 - [ ] **TODO**: `/Downloads` Folder Image Indexer
 - [ ] Revisit Chapter 3
+- [ ]  Co-occurence Matrices
 - [ ] 
